@@ -18,7 +18,7 @@ This project is a simple decentralized application (DApp) that simulates a block
 Before opening it up to the audience:
 ![Blockchain Before](./screenshots/blockchain_1.jpeg)
 
-After opening ti up to the audience:
+After opening it up to the audience:
 ![Blockchain After](./screenshots/blockchain_2.jpeg)
 
 ## Tech Stack
